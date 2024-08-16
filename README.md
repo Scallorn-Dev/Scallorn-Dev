@@ -4,7 +4,7 @@
 
 <h3>More about me:</h3>
 
-I'm currently finishing my **Bachelor of Science** in **Computer Science**. While I'm not an expert (yet I soon hope to be!), I enjoy learning the in and outs of complex problems. Problem solving has grown to be one of my greatest passions. Whether I'm deciding what to have for dinner or sorting an unordered array, a problem is getting solved. 
+I'm currently finishing my **Bachelor of Science** in **Computer Science**. While I'm not an expert (yet I soon hope to be!), I enjoy learning the ins and outs of complex problems. Problem-solving has grown to be one of my greatest passions. Whether I'm deciding what to have for dinner or sorting an unordered array, a problem is getting solved. 
 
 <h2></h2>
 <h2>👨‍💻 Software Development Projects:</h2>
