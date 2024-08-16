@@ -13,7 +13,7 @@ I'm currently finishing my **Bachelor of Science** in **Computer Science**. Whil
   - [Python Projects (Lost Data on old Laptop)](https://github.com/Scallorn-Dev/LABURL)
 - <b>Java</b>
   - [Java Projects](https://github.com/Scallorn-Dev/LABURL)
-- <b>[C++]</b>
+- <b>C++</b>
   - [C++ Projects (Lost Data on old Laptop)](https://github.com/Scallorn-Dev/LABURL)
 - <b>C# Unity Scripts</b>
   - [C# Unity Project Scripts](https://github.com/Scallorn-Dev/LABURL)
